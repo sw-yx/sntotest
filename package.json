@@ -5,6 +5,7 @@
   "main": "server.js",
   "repository": "",
   "author": "Mostafa Eweda <mo.eweda@gmail.com>",
+  "scripts": { "test": "echo \"Error: no test specified\" && exit 1", "start": "node server" },
   "dependencies": {
     "async": "~0.2.8",
     "express": "~3.2.4",
